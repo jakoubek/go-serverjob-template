@@ -1,0 +1,12 @@
+github.com/alexbrainman/odbc v0.0.0-20200426075526-f0492dfa1575 h1:amPgE3QaxNogld1zImkopnrJQkJN51DE7ngVykqVVYE=
+github.com/alexbrainman/odbc v0.0.0-20200426075526-f0492dfa1575/go.mod h1:WEQLoRNIjBhywJqaxe0olilzzBDABc5EVeETiprzR00=
+github.com/go-ole/go-ole v1.2.4 h1:nNBDSCOigTSiarFpYE9J/KtEA1IOW4CNeqT9TQDqCxI=
+github.com/go-ole/go-ole v1.2.4/go.mod h1:XCwSNxSkXRo4vlyPy93sltvi/qJq0jqQhjqQNIwKuxM=
+github.com/jakoubek/emaillib v0.0.0-20200604115422-884517f50d68 h1:fI7mHZ0+gDgoP+FjCnxqwRTqRUo6+O+LCVPM9zLg6sY=
+github.com/jakoubek/emaillib v0.0.0-20200604115422-884517f50d68/go.mod h1:jdrVsJdmlWzFeBMyyJUxy03na0zLC2r2EFiXr9UefFc=
+github.com/jordan-wright/email v0.0.0-20200521030443-c069f37d901d h1:yLsQngbOrQHnKZL1bnkoiDsjQkH8p1w7irA0yl6G4iI=
+github.com/jordan-wright/email v0.0.0-20200521030443-c069f37d901d/go.mod h1:Fy2gCFfZhay8jplf/Csj6cyH/oshQTkLQYZbKkcV+SY=
+github.com/magefile/mage v1.9.0 h1:t3AU2wNwehMCW97vuqQLtw6puppWXHO+O2MHo5a50XE=
+github.com/magefile/mage v1.9.0/go.mod h1:z5UZb/iS3GoOSn0JgWuiw7dxlurVYTu+/jHXqQg881A=
+golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba h1:nZJIJPGow0Kf9bU9QTc1U6OXbs/7Hu4e+cNv+hxH+Zc=
+golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

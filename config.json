@@ -1,0 +1,14 @@
+{
+  "database": {
+    "dsn": ""
+  },
+  "email": {
+    "host": "localhost",
+    "port": 25,
+    "auth": false,
+    "username": "",
+    "password": "",
+    "sender_name": "",
+    "sender_address": ""
+  }
+}
