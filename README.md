@@ -41,3 +41,5 @@ It comes with a [Magefile](https://magefile.org/):
 ## External depedencies
 
 - [jakoubek/emaillib](https://github.com/jakoubek/emaillib) (and therefore [jordan-wright/email](https://github.com/jordan-wright/email))
+- [alexbrainman/odbc](https://github.com/alexbrainman/odbc)
+- [magefile/mage](https://github.com/magefile/mage)
